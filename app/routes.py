@@ -9,6 +9,6 @@ def index():
    <title> my APPLICATION</title>
 </head>
 <body>
-  <h1>hello, ''' + user['username'] +''' !</h1>
+  <h1>hello sunaina, ''' + user['username'] +''' !/h1>
 </body>
 </html>'''
